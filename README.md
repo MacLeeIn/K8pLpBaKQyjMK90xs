@@ -9,3 +9,4 @@ This research use ethereum for experiment.
 3. https://finance.yahoo.com/quote/ETHUSD=X?p=ETHUSD=X&.tsrc=fin-srch.
 4. https://finance.yahoo.com/ Yahoo.
 5. https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch.
+6. https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC. S&P 500.
