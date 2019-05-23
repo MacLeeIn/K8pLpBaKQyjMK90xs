@@ -3,3 +3,4 @@ K8pLpBaKQyjMK90xsV0ksBq4K9Knm2TFAP8AUHUsYZgR32l/M9nZKKQYJJ1iNnsymDPiAaNw/ih2O75h
 
 # Reference
 1. https://github.com/scheb/yahoo-finance-api.
+2. https://finance.yahoo.com/quote/BTC-USD/
