@@ -7,3 +7,4 @@ This research use ethereum for experiment.
 1. https://github.com/scheb/yahoo-finance-api.
 2. https://finance.yahoo.com/quote/BTC-USD/.
 3. https://finance.yahoo.com/quote/ETHUSD=X?p=ETHUSD=X&.tsrc=fin-srch.
+4. https://finance.yahoo.com/ Yahoo.
