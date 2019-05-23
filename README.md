@@ -8,3 +8,4 @@ This research use ethereum for experiment.
 2. https://finance.yahoo.com/quote/BTC-USD/.
 3. https://finance.yahoo.com/quote/ETHUSD=X?p=ETHUSD=X&.tsrc=fin-srch.
 4. https://finance.yahoo.com/ Yahoo.
+5. https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch.
