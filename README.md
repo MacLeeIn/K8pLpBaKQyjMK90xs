@@ -10,3 +10,4 @@ This research use ethereum for experiment.
 4. https://finance.yahoo.com/ Yahoo.
 5. https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch.
 6. https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC. S&P 500.
+7. https://github.com/CODAIT/aardpfark. PFA format.
